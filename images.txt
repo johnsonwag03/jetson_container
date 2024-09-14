@@ -1,1 +1,1 @@
-dustynv/nano_llm:24.7-r35.4.1
+docker pull dustynv/l4t-pytorch:r35.4.1
