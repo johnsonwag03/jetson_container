@@ -1,1 +1,2 @@
 dustynv/l4t-pytorch:r35.4.1
+dustynv/l4t-pytorch:r36.2.0
