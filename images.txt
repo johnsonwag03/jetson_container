@@ -1,2 +1,1 @@
-dustynv/l4t-pytorch:r36.2.0
 dustynv/text-generation-webui:r36.2.0
