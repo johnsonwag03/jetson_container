@@ -1,1 +1,1 @@
-dustynv/text-generation-webui:r36.2.0
+dustynv/mlc:0.1.2-r36.3.0
