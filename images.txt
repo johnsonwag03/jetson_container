@@ -1,1 +1,1 @@
-dustynv/vllm:r36.4.0
+dustynv/tensorrt_llm:0.12-r36.4.0
